@@ -1,0 +1,25 @@
+wyatts97-chatroom:
+  forum:
+    nav:
+      chat_link: Chatroom
+    chat:
+      title: Chatroom
+      online_status: Live
+      placeholder: Type a message...
+      send: Send
+      no_messages: No messages yet. Be the first to say hello!
+      edited: (edited)
+      delete: Delete
+      delete_confirm: Are you sure you want to delete this message?
+      send_error: Failed to send message.
+      delete_error: Failed to delete message.
+      new_messages: New messages
+  admin:
+    permissions:
+      create_chat_message_label: Send chat messages
+      delete_chat_message_label: Delete chat messages
+    settings:
+      polling_interval_label: Polling interval (ms)
+      flood_control_label: Flood control (seconds)
+      max_message_length_label: Max message length
+      message_limit_label: Message history limit

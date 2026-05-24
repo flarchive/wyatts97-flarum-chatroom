@@ -1,0 +1,32 @@
+{
+    "name": "wyatts97/flarum-chatroom",
+    "description": "A real-time chatroom extension for Flarum v2.x",
+    "keywords": ["flarum", "chat", "messaging", "real-time"],
+    "type": "flarum-extension",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "wyatts97"
+        }
+    ],
+    "require": {
+        "php": ">=8.2",
+        "flarum/core": ">=2.0.0-rc.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Wyatts97\\Chatroom\\": "src/"
+        }
+    },
+    "extra": {
+        "flarum-extension": {
+            "title": "Chatroom",
+            "category": "feature",
+            "icon": {
+                "name": "fas fa-comments",
+                "backgroundColor": "#4d698e",
+                "color": "#fff"
+            }
+        }
+    }
+}
