@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of wyatts97/flarum-chatroom.** Not for installation: use [Packagist](https://packagist.org/packages/wyatts97/flarum-chatroom) or the [upstream repository](https://github.com/wyatts97/flarum-chatroom).
 
-**0** versions archived · Latest: [`v1.3.7`](https://github.com/flarchive/wyatts97-flarum-chatroom/tree/archive/v1.3.7) · License: `MIT` · Flarum: `>=2.0.0-rc.1`
+**1** versions archived · Latest: [`v1.3.7`](https://github.com/flarchive/wyatts97-flarum-chatroom/tree/archive/v1.3.7) · License: `MIT` · Flarum: `>=2.0.0-rc.1`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.3.7` | 2026-05-24 | `>=2.0.0-rc.1` | [Browse](https://github.com/flarchive/wyatts97-flarum-chatroom/tree/archive/v1.3.7) |
 
 Catalog entry: [packages/wyatts97-flarum-chatroom.json](https://github.com/flarchive/archive-index/blob/main/packages/wyatts97-flarum-chatroom.json)
 
